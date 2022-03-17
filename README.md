@@ -20,7 +20,7 @@
 
 | Dates | Paper(author)                                                                                     | Year | Presenter | File upload | Code explained |
 |-------|---------------------------------------------------------------------------------------------------|------|-----------|-------------|----------------|
-|       | Class-Based n-gram Models of Natural Language(Peter F Brown, et al.)                              | 1992 |   소연   |    [설명](https://docs.google.com/presentation/d/1BFrCpcl7GxT3iiqGXajjYAZbsEAjUslhtbkBlQau8AE/edit?usp=sharing)         |                |
+|       | Class-Based n-gram Models of Natural Language(Peter F Brown, et al.)                              | 1992 |   소연   |    [설명](https://docs.google.com/presentation/d/1BFrCpcl7GxT3iiqGXajjYAZbsEAjUslhtbkBlQau8AE/edit?usp=sharing)         |        동진      |   [발표](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/files/8284506/default.pptx)
 |       | Efficient Estimation of Word Representations in Vector Space(Tomas Mikolov, et al)                | 2013 |           |             |                |
 |       | Distributed Representations of Words and Phrases and their Compositionality(Tomas Mikolov, et al) | 2013 |           |             |                |
 |       | Distributed Representations of Sentences and Documents(Quoc V. Le and Tomas Mikolov)               | 2014 |           |             |                |
