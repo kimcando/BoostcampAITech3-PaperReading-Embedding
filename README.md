@@ -22,7 +22,7 @@
 |-------|---------------------------------------------------------------------------------------------------|------|-----------|-------------|----------------|
 |       | Class-Based n-gram Models of Natural Language(Peter F Brown, et al.)                              | 1992 |   소연   |    [설명](https://docs.google.com/presentation/d/1BFrCpcl7GxT3iiqGXajjYAZbsEAjUslhtbkBlQau8AE/edit?usp=sharing)         |           |   
 |       | Efficient Estimation of Word Representations in Vector Space(Tomas Mikolov, et al)                | 2013 |    동진       |    [발표](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/files/8284506/default.pptx)         |                |
-|       | Distributed Representations of Words and Phrases and their Compositionality(Tomas Mikolov, et al) | 2013 |           |             |                |
+|       | Distributed Representations of Words and Phrases and their Compositionality(Tomas Mikolov, et al) | 2013 |   나연   |   [설명](https://wry-silence-4ef.notion.site/Distributed-Representations-of-Words-and-Phrases-and-their-Compositionality-95186fac1ee641359589c2a92267ef29)  |                |
 |       | Distributed Representations of Sentences and Documents(Quoc V. Le and Tomas Mikolov)               | 2014 |           |             |                |
 |       | GloVe: Global Vectors for Word Representation(Jeffrey Pennington, et al.)                         | 2015 |           |             |                |
 |       | Skip-Thought Vectors(Ryan Kiros, et al.)                                                          | 2015 |           |             |                |
