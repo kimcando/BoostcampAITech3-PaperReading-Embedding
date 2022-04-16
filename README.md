@@ -22,7 +22,7 @@
 |-------|---------------------------------------------------------------------------------------------------|------|-----------|-------------|----------------|
 |       | Class-Based n-gram Models of Natural Language(Peter F Brown, et al.)                              | 1992 |   소연   |    [설명](https://docs.google.com/presentation/d/1BFrCpcl7GxT3iiqGXajjYAZbsEAjUslhtbkBlQau8AE/edit?usp=sharing)         |           |   
 |       | Efficient Estimation of Word Representations in Vector Space(Tomas Mikolov, et al)                | 2013 |    동진       |    [발표](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/files/8284506/default.pptx)         |                |
-|       | Distributed Representations of Words and Phrases and their Compositionality(Tomas Mikolov, et al) | 2013 |   나연   |   [설명](https://wry-silence-4ef.notion.site/Distributed-Representations-of-Words-and-Phrases-and-their-Compositionality-95186fac1ee641359589c2a92267ef29)  |                |
+|       | Distributed Representations of Words and Phrases and their Compositionality(Tomas Mikolov, et al) | 2013 |   나연   |   [설명](https://wry-silence-4ef.notion.site/Distributed-Representations-of-Words-and-Phrases-and-their-Compositionality-95186fac1ee641359589c2a92267ef29)  |   [skip-gram](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/tree/main/materials/skip-gram), [CBOW](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/tree/main/materials/cbow)          |
 |       | Distributed Representations of Sentences and Documents(Quoc V. Le and Tomas Mikolov)               | 2014 |   기원   |  [설명](https://catnip-pelican-5b8.notion.site/DOC2VEC-72913173f6484646a7873add95e24195)           |                |
 |       | GloVe: Global Vectors for Word Representation(Jeffrey Pennington, et al.)                         | 2015 |           |             |                |
 |       | Skip-Thought Vectors(Ryan Kiros, et al.)                                                          | 2015 |           |             |                |
@@ -30,6 +30,15 @@
 |       | Universal Sentence Encoder(Daniel Cer et al.)                                                     | 2018 |           |             |                |
 
 <br/>
+
+### issue & 추가 스터디 자료
+
+| Dates | Topic              | Presenter | File upload  |
+|-------|--------------------|-----------|-------------|
+|04/14  | genism을 이용한 word2vec 사용 | 현지 |[링크]()|
+|04/14  | negative samping & subsampling | 나경 | [링크]()|
+|04/14  | hierarchical softmax | 소연 | [링크](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/blob/main/materials/hierarchical_softmax.pdf)|
+|04/14  | negative contrastive estimation(NCE) | 수정| [링크]() |
 
 ### 스터디 룰
 * 스터디 시간 : 목요일 저녁 9시 30분! 
@@ -43,7 +52,7 @@
 ---
 
 ### 참여자
-> 강나경, 김소연, 김현지, 박기범, 임동진, 임수정, 정기원, 한나연
+> 강나경, 김소연, 김현지, 박기범, 임동진, 임수정, 정기원, 한나연 , 
 
 ### 참고 링크
 > 논문을 정리하는 틀과 issues를 통한 discussion이 좋았던 깃헙 레포 [참고](https://github.com/eubinecto/k4ji_ai/issues)
