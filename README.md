@@ -38,7 +38,7 @@
 |04/14  | genism을 이용한 word2vec 사용 | 현지 |[링크](https://drive.google.com/file/d/1EMRV7neUNTV1A2r3lOWcbHdAf21-5olz/view?usp=sharing)|
 |04/14  | negative samping & subsampling | 나경 | [링크](https://angiekang.tistory.com/31)|
 |04/14  | hierarchical softmax | 소연 | [링크](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/blob/main/materials/hierarchical_softmax.pdf)|
-|04/14  | negative contrastive estimation(NCE) | 수정| [링크]() |
+|04/14  | negative contrastive estimation(NCE) | 수정| [링크](https://drive.google.com/file/d/1JZv107HqzXtO3klmqE_-IkMsdFG9J1Pc/view?usp=sharing) |
 
 ### 스터디 룰
 * 스터디 시간 : 목요일 저녁 9시 30분! 
