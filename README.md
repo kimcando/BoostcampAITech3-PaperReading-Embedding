@@ -26,7 +26,6 @@
 |       | Distributed Representations of Sentences and Documents(Quoc V. Le and Tomas Mikolov)               | 2014 |   기원   |  [설명](https://catnip-pelican-5b8.notion.site/DOC2VEC-72913173f6484646a7873add95e24195)           | [Doc2Vec](https://github.com/cbowdon/doc2vec-pytorch)               |  
 |       | GloVe: Global Vectors for Word Representation(Jeffrey Pennington, et al.)                         | 2015 |   수정     |   [설명](https://drive.google.com/file/d/1rtp6bg8_HQh8kRSmlSoZqGAI3jr764-H/view?usp=sharing)          |                |
 |       | Skip-Thought Vectors(Ryan Kiros, et al.)                                                          | 2015 |     기범   |      [설명](https://github.com/cow-coding/Machine-Learning-Paper-Review-and-Implementation/raw/main/presentation/skip-thought_vector.pptx)       |                |
-
 |       | Enriching Word Vectors with Subword Information(Piotr Bojanowski, et al.)                        | 2017 |    은기     |    [설명](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/files/8632803/FastText._.pptx)        |                |
 |       | Universal Sentence Encoder(Daniel Cer et al.)                                                     | 2018 |           |             |                |
 
