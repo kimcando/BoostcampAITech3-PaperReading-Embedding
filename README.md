@@ -20,13 +20,13 @@
 
 | Dates | Paper(author)                                                                                     | Year | Presenter | File upload | Code explained |
 |-------|---------------------------------------------------------------------------------------------------|------|-----------|-------------|----------------|
-|       | Class-Based n-gram Models of Natural Language(Peter F Brown, et al.)                              | 1992 |   소연   |    [설명](https://docs.google.com/presentation/d/1BFrCpcl7GxT3iiqGXajjYAZbsEAjUslhtbkBlQau8AE/edit?usp=sharing)         |           |   
-|       | Efficient Estimation of Word Representations in Vector Space(Tomas Mikolov, et al)                | 2013 |    동진       |    [발표](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/files/8284506/default.pptx)         |                |
-|       | Distributed Representations of Words and Phrases and their Compositionality(Tomas Mikolov, et al) | 2013 |   나연   |   [설명](https://wry-silence-4ef.notion.site/Distributed-Representations-of-Words-and-Phrases-and-their-Compositionality-95186fac1ee641359589c2a92267ef29)  |   [skip-gram](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/tree/main/materials/skip-gram), [CBOW](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/tree/main/materials/cbow)          |
-|       | Distributed Representations of Sentences and Documents(Quoc V. Le and Tomas Mikolov)               | 2014 |   기원   |  [설명](https://catnip-pelican-5b8.notion.site/DOC2VEC-72913173f6484646a7873add95e24195)           | [Doc2Vec](https://github.com/cbowdon/doc2vec-pytorch)               |  
-|       | GloVe: Global Vectors for Word Representation(Jeffrey Pennington, et al.)                         | 2015 |   수정     |   [설명](https://drive.google.com/file/d/1rtp6bg8_HQh8kRSmlSoZqGAI3jr764-H/view?usp=sharing)          |                |
-|       | Skip-Thought Vectors(Ryan Kiros, et al.)                                                          | 2015 |     기범   |      [설명](https://github.com/cow-coding/Machine-Learning-Paper-Review-and-Implementation/raw/main/presentation/skip-thought_vector.pptx)       |                |
-|       | Enriching Word Vectors with Subword Information(Piotr Bojanowski, et al.)                        | 2017 |    은기     |    [설명](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/files/8632803/FastText._.pptx)        |                |
+|03/10  | Class-Based n-gram Models of Natural Language(Peter F Brown, et al.)                              | 1992 |   소연   |    [설명](https://docs.google.com/presentation/d/1BFrCpcl7GxT3iiqGXajjYAZbsEAjUslhtbkBlQau8AE/edit?usp=sharing)         |           |   
+|03/17  | Efficient Estimation of Word Representations in Vector Space(Tomas Mikolov, et al)                | 2013 |    동진       |    [발표](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/files/8284506/default.pptx)         |                |
+|03/24  | Distributed Representations of Words and Phrases and their Compositionality(Tomas Mikolov, et al) | 2013 |   나연   |   [설명](https://wry-silence-4ef.notion.site/Distributed-Representations-of-Words-and-Phrases-and-their-Compositionality-95186fac1ee641359589c2a92267ef29)  |   [skip-gram](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/tree/main/materials/skip-gram), [CBOW](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/tree/main/materials/cbow)          |
+|03/31  | Distributed Representations of Sentences and Documents(Quoc V. Le and Tomas Mikolov)               | 2014 |   기원   |  [설명](https://catnip-pelican-5b8.notion.site/DOC2VEC-72913173f6484646a7873add95e24195)           | [Doc2Vec](https://github.com/cbowdon/doc2vec-pytorch)               |  
+|04/21  | GloVe: Global Vectors for Word Representation(Jeffrey Pennington, et al.)                         | 2015 |   수정     |   [설명](https://drive.google.com/file/d/1rtp6bg8_HQh8kRSmlSoZqGAI3jr764-H/view?usp=sharing)          |                |
+|04/28  | Skip-Thought Vectors(Ryan Kiros, et al.)                                                          | 2015 |     기범   |      [설명](https://github.com/cow-coding/Machine-Learning-Paper-Review-and-Implementation/raw/main/presentation/skip-thought_vector.pptx)       |                |
+|05/05  | Enriching Word Vectors with Subword Information(Piotr Bojanowski, et al.)                        | 2017 |    은기     |    [설명](https://github.com/kimcando/BoostcampAITech3-PaperReading-Embedding/files/8632803/FastText._.pptx)        |                |
 |       | Universal Sentence Encoder(Daniel Cer et al.)                                                     | 2018 |           |             |                |
 
 <br/>
@@ -52,7 +52,7 @@
 ---
 
 ### 참여자
-> 강나경, 김소연, 김현지, 박기범, 임동진, 임수정, 정기원, 한나연 , 김은기
+> 강나경, 김소연, 김현지, 박기범, 임동진, 임수정, 정기원, 한나연, 김은기
 
 ### 참고 링크
 > 논문을 정리하는 틀과 issues를 통한 discussion이 좋았던 깃헙 레포 [참고](https://github.com/eubinecto/k4ji_ai/issues)
